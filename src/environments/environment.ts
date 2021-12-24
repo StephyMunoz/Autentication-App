@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'AIzaSyDU-Ke0-hIuNwb7YkSLriY43X6fQFWJz_M',
-    authDomain: 'login-ng-b97ae.firebaseapp.com',
-    databaseURL: 'https://login-ng-b97ae.firebaseio.com',
-    projectId: 'login-ng-b97ae',
-    storageBucket: 'login-ng-b97ae.appspot.com',
-    messagingSenderId: '818340563584',
-    appId: '1:818340563584:web:52d4d25bdd3214363ff465',
+    apiKey: "AIzaSyD9FHmaeXa2rnbJTE8-U8-gnSD4uEO6Uaw",
+    authDomain: "chat-f24ff.firebaseapp.com",
+    databaseURL: "https://chat-f24ff-default-rtdb.firebaseio.com",
+    projectId: "chat-f24ff",
+    storageBucket: "chat-f24ff.appspot.com",
+    messagingSenderId: "224108516816",
+    appId: "1:224108516816:web:618956c0af8c52f125d5d5"
   },
 };
 
